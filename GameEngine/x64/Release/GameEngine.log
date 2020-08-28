@@ -1,0 +1,6 @@
+﻿  test.cpp
+C:\Users\Rupayan\Documents\Game Engine\GameEngine\src\test.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Rupayan\Documents\Game Engine\GameEngine\src\test.cpp(2,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+     Creating library C:\Users\Rupayan\Documents\Game Engine\x64\Release\GameEngine.lib and object C:\Users\Rupayan\Documents\Game Engine\x64\Release\GameEngine.exp
+MSVCRT.lib(exe_main.obj) : error LNK2001: unresolved external symbol main
+C:\Users\Rupayan\Documents\Game Engine\x64\Release\GameEngine.exe : fatal error LNK1120: 1 unresolved externals

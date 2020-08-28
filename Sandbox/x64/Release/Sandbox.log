@@ -1,0 +1,4 @@
+﻿  app.cpp
+C:\Users\Rupayan\Documents\Game Engine\Sandbox\src\app.cpp(5,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+app.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) void __cdecl GEngine::Print(void)" (__imp_?Print@GEngine@@YAXXZ)
+C:\Users\Rupayan\Documents\Game Engine\x64\Release\Sandbox.exe : fatal error LNK1120: 1 unresolved externals
